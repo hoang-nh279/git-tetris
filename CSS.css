@@ -1,6 +1,13 @@
 * {
     font-family: 'Press Start 2P', cursive;
 }
+h1{
+
+    color: white;
+}
+p{
+    color: white;
+}
 
 body {
     background-image: url('ai-generated-8398599_1280.png');
